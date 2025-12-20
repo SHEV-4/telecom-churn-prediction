@@ -1,0 +1,26 @@
+{
+    "Random Forest": {
+        "is_tv_subscriber": 0.018064951531462013,
+        "is_movie_package_subscriber": 0.016999108245149937,
+        "subscription_age": 0.0674621295241338,
+        "bill_avg": 0.04695801062393868,
+        "reamining_contract": 0.5470915182906704,
+        "service_failure_count": 0.0,
+        "download_avg": 0.1258477807153602,
+        "upload_avg": 0.08599290760327251,
+        "download_over_limit": 0.002561948624392794,
+        "reamining_contract_missing": 0.08902164484161967
+    },
+    "Gradient Boosting": {
+        "is_tv_subscriber": 0.001975902847238945,
+        "is_movie_package_subscriber": 0.0014920059211246308,
+        "subscription_age": 0.022861708151375545,
+        "bill_avg": 0.021619033942823867,
+        "reamining_contract": 0.8707344848480955,
+        "service_failure_count": 0.0,
+        "download_avg": 0.0665912893312268,
+        "upload_avg": 0.005118984331854822,
+        "download_over_limit": 0.0015282091069195706,
+        "reamining_contract_missing": 0.00807838151934026
+    }
+}
