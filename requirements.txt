@@ -1,0 +1,7 @@
+streamlit==1.52.2
+streamlit-option-menu==0.4.0
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib

@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  churn-app:
+    build: .
+    container_name: churn_prediction_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    restart: unless-stopped
